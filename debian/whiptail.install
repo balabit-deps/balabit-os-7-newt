@@ -1,0 +1,2 @@
+whiptail	bin
+debian/bash_completion.d/* 	/usr/share/bash-completion/completions/
